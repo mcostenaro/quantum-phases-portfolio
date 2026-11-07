@@ -1,0 +1,239 @@
+{
+  "release": "portfolio-v1",
+  "research_revision": "1e8438624c21dc7da821347b5f13827ffa8f98fa",
+  "research_run_code_revision": "e1f73c0",
+  "scope": "Curated code, independent demonstration, and aggregate v3 findings; no private history.",
+  "files": [
+    {
+      "path": "LICENSE",
+      "origin": "LICENSE",
+      "mode": "exact",
+      "sha256": "e8fd4087a81f1a2f1ca28df1bf429bccde57f2eeafebf7e4f360ed480d1ed488"
+    },
+    {
+      "path": "src/quantum_phases/__init__.py",
+      "origin": "src/quantum_phases/__init__.py",
+      "mode": "exact",
+      "sha256": "fd5746831f524449d591ce0a41ba88871b3d62fb78bb628b826dde4863595baa"
+    },
+    {
+      "path": "src/quantum_phases/augmentation_controls.py",
+      "origin": "src/quantum_phases/augmentation_controls.py",
+      "mode": "exact",
+      "sha256": "6aad58834724854bb0e5d1775df0e6dd2942743e618a6f45611f46d459387123"
+    },
+    {
+      "path": "src/quantum_phases/classify.py",
+      "origin": "src/quantum_phases/classify.py",
+      "mode": "exact",
+      "sha256": "462d4dda53e31f97c3b60cec349dc7dde609f91830f6adcc1822ff96d2ab8a83"
+    },
+    {
+      "path": "src/quantum_phases/config.py",
+      "origin": "src/quantum_phases/config.py",
+      "mode": "exact",
+      "sha256": "dc6d6881b66e87d0bfa22bf9ebd471c942631c0b0711fb28beb1c37235739187"
+    },
+    {
+      "path": "src/quantum_phases/data.py",
+      "origin": "src/quantum_phases/data.py",
+      "mode": "exact",
+      "sha256": "87c7ada11d611d5b5f4ab674a1203e908e7b89a63dd10ec347309a732b1e9853"
+    },
+    {
+      "path": "src/quantum_phases/neighbors.py",
+      "origin": "src/quantum_phases/neighbors.py",
+      "mode": "exact",
+      "sha256": "de65e1e574de601ecea824e6c93f7b509575b26e6faffc9d10de9403520a015d"
+    },
+    {
+      "path": "src/quantum_phases/paths.py",
+      "origin": "src/quantum_phases/paths.py",
+      "mode": "exact",
+      "sha256": "73c112e83faa48c8ee0cce39e793dda41cc7a94c5a6991c217f72f64058ac157"
+    },
+    {
+      "path": "src/quantum_phases/scaling.py",
+      "origin": "src/quantum_phases/scaling.py",
+      "mode": "exact",
+      "sha256": "0174ff3488113d252511f8e62a7360b763d58c89d918c00476ff9e31b66d5df7"
+    },
+    {
+      "path": "src/quantum_phases/split.py",
+      "origin": "src/quantum_phases/split.py",
+      "mode": "exact",
+      "sha256": "3ed90633f14e56f2ec3498fe06974f207b63e9c0429cb1035e2204fe3102e455"
+    },
+    {
+      "path": "C_GAN/src/__init__.py",
+      "origin": "C_GAN/src/__init__.py",
+      "mode": "exact",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "C_GAN/src/gan_ydata_like.py",
+      "origin": "C_GAN/src/gan_ydata_like.py",
+      "mode": "exact",
+      "sha256": "163388b74827a56c0d4c37d0ad7eb96a6a75760ccc8004b8e6cf127e3b3b6458"
+    },
+    {
+      "path": "C_GAN/src/experiment_generator.py",
+      "origin": "C_GAN/src/experiment_generator.py",
+      "mode": "exact",
+      "sha256": "e693b82e1e7a580ee3b71b575ca735e61452b5aa6c9c114d89978a9a25e048a5"
+    },
+    {
+      "path": "C_difusion/src/difusion_core.py",
+      "origin": "C_difusion/src/difusion_core.py",
+      "mode": "exact",
+      "sha256": "895f42851127eb48b1a9d6296965a04f975bd1d70f2ac37a483878b73af36951"
+    },
+    {
+      "path": "C_difusion/src/experiment_generator.py",
+      "origin": "C_difusion/src/experiment_generator.py",
+      "mode": "exact",
+      "sha256": "ac66b3dc2fc50ea0aec78d4c7d64ebfacffdd048153eaaca15f2cfc40c6884e9"
+    },
+    {
+      "path": "tests/test_augmentation_controls.py",
+      "origin": "tests/test_augmentation_controls.py",
+      "mode": "exact",
+      "sha256": "cf214b05369719c13430ae7c206731c2aff5380759763e0a6b0de9bdf0e99252"
+    },
+    {
+      "path": "tests/test_stable_neighbors.py",
+      "origin": "tests/test_stable_neighbors.py",
+      "mode": "exact",
+      "sha256": "3e2b7d5caa1664e20a6754169b067b7ad09bc46a6cf57b8056cbb2ba83f6ef2b"
+    },
+    {
+      "path": "README.md",
+      "origin": "publication/templates/README.md",
+      "mode": "portfolio-authored",
+      "sha256": "ea074c7cf93eac6316dc411e3bedcf64884d55ac003583072323c8fe397e1b9a"
+    },
+    {
+      "path": ".gitignore",
+      "origin": "publication/templates/.gitignore",
+      "mode": "portfolio-authored",
+      "sha256": "409502ee6e6b6b0c6dba0447fb1e3b038bfa3b09bff23983813b26a831a866f5"
+    },
+    {
+      "path": ".gitattributes",
+      "origin": "publication/templates/.gitattributes",
+      "mode": "portfolio-authored",
+      "sha256": "23302dd90b8bb74b44d365fafef8df20f809b61cb347023951ecf60a88a29651"
+    },
+    {
+      "path": "requirements.txt",
+      "origin": "publication/templates/requirements.txt",
+      "mode": "portfolio-authored",
+      "sha256": "d4d2866231a7f0a6f674b7cedeafdc28cdb77c264d0bb589723a5d5d12a4935b"
+    },
+    {
+      "path": "pyproject.toml",
+      "origin": "publication/templates/pyproject.toml",
+      "mode": "portfolio-authored",
+      "sha256": "04cfe0f22d13ad33a53e18210fdb8ff58ffebf14aed0a30d4490d28f39ea5ff6"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "origin": "publication/templates/THIRD_PARTY_NOTICES.md",
+      "mode": "portfolio-authored",
+      "sha256": "32e62b36e0fb50fb3471f1b5a0e9d1f5baea68d0f14d58ab6c136c1b35f82855"
+    },
+    {
+      "path": "third_party/YDATA_LICENSE.txt",
+      "origin": "publication/templates/third_party/YDATA_LICENSE.txt",
+      "mode": "portfolio-authored",
+      "sha256": "11c95bd0e7fa2d5acf3378c28f6dc6108f0306a6be543111adecbbde31a244eb"
+    },
+    {
+      "path": "docs/METHODS_AND_LIMITATIONS.md",
+      "origin": "publication/templates/docs/METHODS_AND_LIMITATIONS.md",
+      "mode": "portfolio-authored",
+      "sha256": "42c147945b1770d7e38b6c6d286b64b5cdbb82fb538d26d82fbf1c5b8fe86ecc"
+    },
+    {
+      "path": "docs/UPDATING.md",
+      "origin": "publication/templates/docs/UPDATING.md",
+      "mode": "portfolio-authored",
+      "sha256": "ad939ff90c0b5da92bed347074189f4242ef72ab4a61c386023110a135c60b43"
+    },
+    {
+      "path": "docs/DATA.md",
+      "origin": "publication/templates/docs/DATA.md",
+      "mode": "portfolio-authored",
+      "sha256": "9ace09ae530484a33a98a46f04d7404b844bd6ce827e1aa153735e9d9a42550d"
+    },
+    {
+      "path": "examples/demo.py",
+      "origin": "publication/templates/examples/demo.py",
+      "mode": "portfolio-authored",
+      "sha256": "530628bfe2bace9f85d8a579750dcf3d4ed3d3422ec0e27c57c39fafbc224294"
+    },
+    {
+      "path": "examples/make_demo_data.py",
+      "origin": "publication/templates/examples/make_demo_data.py",
+      "mode": "portfolio-authored",
+      "sha256": "eacb3806d16fa75e06bfcdd09f3355aec65ffa2fb64590136aef8566bfd41af0"
+    },
+    {
+      "path": "scripts/plot_selected_results.py",
+      "origin": "publication/templates/scripts/plot_selected_results.py",
+      "mode": "portfolio-authored",
+      "sha256": "452fa53591907dd8cc9c8975b70189fe9aeb1f078c23385a508591830dec1ed4"
+    },
+    {
+      "path": "tests/conftest.py",
+      "origin": "publication/templates/tests/conftest.py",
+      "mode": "portfolio-authored",
+      "sha256": "e8491aeddb19bdb48232c763955359492862f85997a6a37c3384232992f8a6d0"
+    },
+    {
+      "path": "tests/test_demo.py",
+      "origin": "publication/templates/tests/test_demo.py",
+      "mode": "portfolio-authored",
+      "sha256": "0259c285ec62c13443bff3c3e70c6ff0121d02723250d7867e8fce52b14772d2"
+    },
+    {
+      "path": ".github/workflows/check.yml",
+      "origin": "publication/templates/.github/workflows/check.yml",
+      "mode": "portfolio-authored",
+      "sha256": "ba3309b874447eeb5b847a556e8f7024487a404d3bd8076a0746fa36279458ec"
+    },
+    {
+      "path": "selected_results/gains.csv",
+      "origin": "main/docs/estudo_v3/05_handoff_resultados.md",
+      "origin_sha256": "d789a2ea104851914a223bb6ccdce0db53eaba6e2f93376db8e79c05c9bfd630",
+      "mode": "aggregate-table-extraction",
+      "sha256": "bf0f470ea3ef87d910fda41b58dfb6fb5a083e66eb3dc4d18b51c004372d27a5"
+    },
+    {
+      "path": "selected_results/contrasts.csv",
+      "origin": "main/docs/estudo_v3/05_handoff_resultados.md",
+      "origin_sha256": "d789a2ea104851914a223bb6ccdce0db53eaba6e2f93376db8e79c05c9bfd630",
+      "mode": "aggregate-table-extraction",
+      "sha256": "7e35b8c16993314376ce513d9e124e4bdfcef7fcb4a1769bf7ced0f85cadda61"
+    },
+    {
+      "path": "scripts/verify_publication.py",
+      "origin": "publication/templates/scripts/verify_publication.py",
+      "mode": "portfolio-authored",
+      "sha256": "b9ffa0412b7faadc2030a430e5406b64588cc4732762bb5a0b4745aee20c141d"
+    }
+  ],
+  "generated_files": [
+    "docs/figures/gains.png",
+    "docs/figures/contrasts.png"
+  ],
+  "figure_recipe": "python scripts/plot_selected_results.py",
+  "excluded": [
+    "raw and labeled research datasets",
+    "full dissertation",
+    "internal records",
+    "personal instructions and settings",
+    "full results and checkpoints",
+    "private Git objects"
+  ]
+}
